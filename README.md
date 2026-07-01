@@ -1,6 +1,4 @@
-# audio-generation-analysis
-This repo contains audio analysis and generation pipeline
-## Speech Augmentation and Acoustic Simulation Toolkit
+# Speech Augmentation and Acoustic Simulation Toolkit
 
 ## Overview
 
